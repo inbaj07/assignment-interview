@@ -14,6 +14,7 @@ const fibonacciSeries = (n)=>{
 	}
 };
 console.log(fibonacciSeries(10000));
+
 function migrateRings(n, source,  destination,  aux)
 {
 	if (n == 0) return;	
